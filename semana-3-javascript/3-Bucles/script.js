@@ -1,5 +1,5 @@
 let hora = 0
-const cucu = "Cúcu "
+const cucu = "Cucú "
 
 while(hora <= 24) {
   console.log(`Son las ${hora} horas.`)
